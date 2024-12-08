@@ -23,6 +23,6 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="www.linkedin.com/in/humberto-ragazzini-6b407bb6"><img src="https://img.shields.io/badge/-Humberto-Ragazzini-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/humberto-ragazzini-6b407bb6"><img src="https://img.shields.io/badge/-Humberto-Ragazzini-6b407bb6?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hmragazzini@hotmail.com"><img src="https://img.shields.io/badge/-hmragazzini@hotmail.com-D14836?style=flat&logo=Hotmail&logoColor=white"/></a>
 </p>
