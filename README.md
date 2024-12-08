@@ -6,6 +6,8 @@
 
 ### Languages & Tools 🛠
 
+![GLSL](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![React Three Fiber](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![React](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) &nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
