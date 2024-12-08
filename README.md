@@ -18,7 +18,7 @@
 
 <p align="left">
 <a href="https://github.com/humbertoragazzini">
-  <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg"/>
+  <!-- <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg"/> -->
 </a>
 </p>
   
