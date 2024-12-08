@@ -20,6 +20,10 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
+![blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=007ACC) ![davinciresolve](https://img.shields.io/badge/-Davinci-05122A?style=flat&logo=davinciresolve) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+
+![debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian&logoColor=007ACC) ![archlinux](https://img.shields.io/badge/-Arch-05122A?style=flat&logo=archlinux) ![ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=white)&nbsp;
+
 ![Sonar](https://img.shields.io/badge/-Sonar-05122A?style=flat&logo=sonar)
 
 ### Analytics ⚙️
