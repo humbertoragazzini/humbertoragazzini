@@ -14,7 +14,7 @@
 
 ### I constantly seek new challenges and opportunities to grow, staying up-to-date with the latest trends and tools in the tech world.
 
-### At the moment, I'm proud to be contributing my skills at [Fourleaf](https://www.fourleaf.co.uk/), where I work on [briefly mention what you do there, e.g., "developing scalable web applications," "creating engaging user experiences," etc.].
+### At the moment, I'm proud to be contributing my skills at [Fourleaf](https://www.fourleaf.co.uk/), where I work on project for companies like Shell and building amazing website for sharepoint site (Internal platform).
 
 ### Feel free to connect or explore my repositories to see what I've been up to. Let's build something amazing together!
 
