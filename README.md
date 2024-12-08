@@ -2,7 +2,21 @@
 
 <!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> -->
 
-### I'm a Software Developer living in UK and working at [Fourleaf](https://www.fourleaf.co.uk/).
+### Hi there! 👋
+
+### I'm a technology enthusiast with a deep passion for innovation and creativity. Whether it's diving into the world of game development or crafting functional and elegant websites, I thrive on turning ideas into reality through code.
+
+### Currently, I'm immersed in two exciting projects:
+
+### 🎮 Game Development – Bringing immersive experiences to life, focusing on storytelling, mechanics, and user engagement.
+
+### 🌐 International Project Website – Building a dynamic platform that bridges cultures and ideas, aiming for seamless functionality and intuitive design.
+
+### I constantly seek new challenges and opportunities to grow, staying up-to-date with the latest trends and tools in the tech world.
+
+### At the moment, I'm proud to be contributing my skills at [Fourleaf](https://www.fourleaf.co.uk/), where I work on [briefly mention what you do there, e.g., "developing scalable web applications," "creating engaging user experiences," etc.].
+
+### Feel free to connect or explore my repositories to see what I've been up to. Let's build something amazing together!
 
 ### Languages & Tools 🛠
 
