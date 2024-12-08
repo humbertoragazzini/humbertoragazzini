@@ -6,7 +6,9 @@
 
 ### Languages & Tools 🛠
 
-![GLSL](https://img.shields.io/badge/-GLSL-05122A?style=flat&logo=git) ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-05122A?style=flat&logo=git) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=git)&nbsp;
+![GLSL](https://img.shields.io/badge/-GLSL-05122A?style=flat&logo=webgl) ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-05122A?style=flat&logo=react) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+
+![JavaScript](https://img.shields.io/badge/-GLSL-05122A?style=flat&logo=javascript) ![C/C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=cplusplus) ![Threejs](https://img.shields.io/badge/-Threejs-05122A?style=flat&logo=javascript)&nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) &nbsp;
 
