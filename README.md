@@ -4,7 +4,7 @@
 
 ### Hi there! 👋
 
-###### I'm a lover of technology with a strong passion for creating innovative and impactful solutions. From exploring game development to designing intuitive and functional websites, I enjoy bringing ideas to life through coding.
+###### I'm a lover of technology with a strong passion for creating innovative and impactful solutions. Originally from 🇦🇷 Argentina and now living in 🇬🇧 the UK, I thrive on exploring game development and designing intuitive, functional websites. Bringing ideas to life through coding is what I love to do.
 
 ### Currently, I'm immersed in two exciting projects:
 
