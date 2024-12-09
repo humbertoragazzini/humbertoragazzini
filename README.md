@@ -4,19 +4,19 @@
 
 ### Hi there! 👋
 
-### I'm a lover of technology with a strong passion for creating innovative and impactful solutions. From exploring game development to designing intuitive and functional websites, I enjoy bringing ideas to life through coding.
+#### I'm a lover of technology with a strong passion for creating innovative and impactful solutions. From exploring game development to designing intuitive and functional websites, I enjoy bringing ideas to life through coding.
 
 ### Currently, I'm immersed in two exciting projects:
 
-### 🎮 Game Development – Bringing immersive experiences to life, focusing on storytelling, mechanics, and user engagement.
+#### 🎮 Game Development – Bringing immersive experiences to life, focusing on storytelling, mechanics, and user engagement.
 
-### 🌐 International Project Website – Building a dynamic platform that bridges cultures and ideas, aiming for seamless functionality and intuitive design.
+#### 🌐 International Project Website – Building a dynamic platform that bridges cultures and ideas, aiming for seamless functionality and intuitive design.
 
-### I constantly seek new challenges and opportunities to grow, staying up-to-date with the latest trends and tools in the tech world.
+#### I constantly seek new challenges and opportunities to grow, staying up-to-date with the latest trends and tools in the tech world.
 
-### At the moment, I'm proud to be contributing my skills at [Fourleaf](https://www.fourleaf.co.uk/), where I work on project for companies like Shell and building amazing website for sharepoint site (Internal platform).
+#### At the moment, I'm proud to be contributing my skills at [Fourleaf](https://www.fourleaf.co.uk/), where I work on project for companies like Shell and building amazing website for sharepoint site (Internal platform).
 
-### Feel free to connect or explore my repositories to see what I've been up to. Let's build something amazing together!
+#### Feel free to connect or explore my repositories to see what I've been up to. Let's build something amazing together!
 
 ### Languages & Tools 🛠
 
