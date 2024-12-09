@@ -4,19 +4,23 @@
 
 ### Hi there! 👋
 
-#### I'm a lover of technology with a strong passion for creating innovative and impactful solutions. From exploring game development to designing intuitive and functional websites, I enjoy bringing ideas to life through coding.
+##### I'm a lover of technology with a strong passion for creating innovative and impactful solutions. From exploring game development to designing intuitive and functional websites, I enjoy bringing ideas to life through coding.
 
 ### Currently, I'm immersed in two exciting projects:
 
-#### 🎮 Game Development – Bringing immersive experiences to life, focusing on storytelling, mechanics, and user engagement.
+#### 🎮 Game Development:
 
-#### 🌐 I International Project Website – Designing a platform that facilitates seamless import and export transactions, connecting businesses across borders with an emphasis on efficiency, functionality, and user-friendly design.
+##### Bringing immersive experiences to life, focusing on storytelling, mechanics, and user engagement.
 
-#### I constantly seek new challenges and opportunities to grow, staying up-to-date with the latest trends and tools in the tech world.
+#### 🌐 I International Project Website:
 
-#### At the moment, I'm proud to be contributing my skills at [Fourleaf](https://www.fourleaf.co.uk/), where I work on project for companies like Shell and building amazing website for sharepoint site (Internal platform).
+##### Designing a platform that facilitates seamless import and export transactions, connecting businesses across borders with an emphasis on efficiency, functionality, and user-friendly design.
 
-#### Feel free to connect or explore my repositories to see what I've been up to. Let's build something amazing together!
+##### I constantly seek new challenges and opportunities to grow, staying up-to-date with the latest trends and tools in the tech world.
+
+##### At the moment, I'm proud to be contributing my skills at [Fourleaf](https://www.fourleaf.co.uk/), where I work on project for companies like Shell and building amazing website for sharepoint site (Internal platform).
+
+##### Feel free to connect or explore my repositories to see what I've been up to. Let's build something amazing together!
 
 ### Languages & Tools 🛠
 
