@@ -4,7 +4,7 @@
 
 ### Hi there! 👋
 
-### I'm a technology enthusiast with a deep passion for innovation and creativity. Whether it's diving into the world of game development or crafting functional and elegant websites, I thrive on turning ideas into reality through code.
+### I'm a lover of technology with a strong passion for creating innovative and impactful solutions. From exploring game development to designing intuitive and functional websites, I enjoy bringing ideas to life through coding.
 
 ### Currently, I'm immersed in two exciting projects:
 
