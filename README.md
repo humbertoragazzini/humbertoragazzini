@@ -10,7 +10,7 @@
 
 #### 🎮 Game Development – Bringing immersive experiences to life, focusing on storytelling, mechanics, and user engagement.
 
-#### 🌐 International Project Website – Building a dynamic platform that bridges cultures and ideas, aiming for seamless functionality and intuitive design.
+#### 🌐 I International Project Website – Designing a platform that facilitates seamless import and export transactions, connecting businesses across borders with an emphasis on efficiency, functionality, and user-friendly design.
 
 #### I constantly seek new challenges and opportunities to grow, staying up-to-date with the latest trends and tools in the tech world.
 
